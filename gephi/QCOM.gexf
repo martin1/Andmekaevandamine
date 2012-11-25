@@ -1,0 +1,1645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2012-11-23">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="LOGIC Devices Incorporated">
+        <attvalues></attvalues>
+        <viz:size value="5.6666665"></viz:size>
+        <viz:position x="-8.590103" y="87.52838" z="0.0"></viz:position>
+        <viz:color r="247" g="250" b="190"></viz:color>
+      </node>
+      <node id="Texas Instruments Incorporated">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="41.385513" y="39.682407" z="0.0"></viz:position>
+        <viz:color r="44" g="123" b="182"></viz:color>
+      </node>
+      <node id="Trident Microsystems Inc.">
+        <attvalues></attvalues>
+        <viz:size value="6.3333335"></viz:size>
+        <viz:position x="-30.094995" y="76.58905" z="0.0"></viz:position>
+        <viz:color r="215" g="230" b="189"></viz:color>
+      </node>
+      <node id="Entropic Communications Inc.">
+        <attvalues></attvalues>
+        <viz:size value="7.0"></viz:size>
+        <viz:position x="-56.15509" y="46.085682" z="0.0"></viz:position>
+        <viz:color r="184" g="210" b="188"></viz:color>
+      </node>
+      <node id="Microsemi Corporation">
+        <attvalues></attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="54.567486" y="86.941635" z="0.0"></viz:position>
+        <viz:color r="223" g="76" b="64"></viz:color>
+      </node>
+      <node id="Alcatel Lucent SA (ADR)">
+        <attvalues></attvalues>
+        <viz:size value="6.3333335"></viz:size>
+        <viz:position x="-224.78278" y="-160.0757" z="0.0"></viz:position>
+        <viz:color r="215" g="230" b="189"></viz:color>
+      </node>
+      <node id="Juniper Networks Inc.">
+        <attvalues></attvalues>
+        <viz:size value="5.6666665"></viz:size>
+        <viz:position x="-211.7718" y="-188.62415" z="0.0"></viz:position>
+        <viz:color r="247" g="250" b="190"></viz:color>
+      </node>
+      <node id="Polycom Inc ">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-321.17764" y="-156.66164" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Arris Group Inc. ">
+        <attvalues></attvalues>
+        <viz:size value="1.6666667"></viz:size>
+        <viz:position x="-309.51797" y="-132.21751" z="0.0"></viz:position>
+        <viz:color r="220" g="59" b="52"></viz:color>
+      </node>
+      <node id="Motorola Solutions Inc">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-317.66296" y="-145.94092" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="NetGear Inc. ">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-308.7187" y="-165.41777" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Motorola Mobility Holdings Inc">
+        <attvalues></attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-278.67197" y="-111.899895" z="0.0"></viz:position>
+        <viz:color r="250" g="229" b="172"></viz:color>
+      </node>
+      <node id="Performance Technologies">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-317.37018" y="-217.302" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Symmetricom Inc. ">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-319.66055" y="-192.68715" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Extreme Networks Inc">
+        <attvalues></attvalues>
+        <viz:size value="1.6666667"></viz:size>
+        <viz:position x="-284.05872" y="-218.42822" z="0.0"></viz:position>
+        <viz:color r="220" g="59" b="52"></viz:color>
+      </node>
+      <node id="AudioCodes Ltd. ">
+        <attvalues></attvalues>
+        <viz:size value="1.6666667"></viz:size>
+        <viz:position x="-265.3043" y="-211.73904" z="0.0"></viz:position>
+        <viz:color r="220" g="59" b="52"></viz:color>
+      </node>
+      <node id="Ditech Networks Inc. ">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-309.6267" y="-181.2589" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Infinera Corp. ">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-320.98108" y="-205.74068" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Harmonic Inc.">
+        <attvalues></attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-318.75922" y="-116.67613" z="0.0"></viz:position>
+        <viz:color r="241" g="178" b="136"></viz:color>
+      </node>
+      <node id="BigBand Networks Inc.">
+        <attvalues></attvalues>
+        <viz:size value="1.3333334"></viz:size>
+        <viz:position x="-323.51834" y="-101.14302" z="0.0"></viz:position>
+        <viz:color r="217" g="42" b="40"></viz:color>
+      </node>
+      <node id="Envivio Inc ">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-348.42694" y="-112.604324" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Blonder Tongue Labs Inc.">
+        <attvalues></attvalues>
+        <viz:size value="1.3333334"></viz:size>
+        <viz:position x="-309.947" y="-109.971085" z="0.0"></viz:position>
+        <viz:color r="217" g="42" b="40"></viz:color>
+      </node>
+      <node id="Harris Corporation ">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-341.46793" y="-121.24814" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="SeaChange International">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-340.62326" y="-104.54584" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Wegener Corporation ">
+        <attvalues></attvalues>
+        <viz:size value="1.3333334"></viz:size>
+        <viz:position x="-313.3464" y="-94.84703" z="0.0"></viz:position>
+        <viz:color r="217" g="42" b="40"></viz:color>
+      </node>
+      <node id="Freescale Semiconductor Ltd">
+        <attvalues></attvalues>
+        <viz:size value="7.0"></viz:size>
+        <viz:position x="94.55901" y="-7.132059" z="0.0"></viz:position>
+        <viz:color r="184" g="210" b="188"></viz:color>
+      </node>
+      <node id="Microchip Technology Inc.">
+        <attvalues></attvalues>
+        <viz:size value="2.3333335"></viz:size>
+        <viz:position x="118.37752" y="-14.118888" z="0.0"></viz:position>
+        <viz:color r="226" g="93" b="76"></viz:color>
+      </node>
+      <node id="STMicroelectronics N.V. (ADR)">
+        <attvalues></attvalues>
+        <viz:size value="6.6666665"></viz:size>
+        <viz:position x="81.67687" y="32.01662" z="0.0"></viz:position>
+        <viz:color r="200" g="220" b="188"></viz:color>
+      </node>
+      <node id="Infineon Technologies AG (ADR)">
+        <attvalues></attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="122.5073" y="8.83315" z="0.0"></viz:position>
+        <viz:color r="223" g="76" b="64"></viz:color>
+      </node>
+      <node id="Analog Devices Inc. ">
+        <attvalues></attvalues>
+        <viz:size value="2.6666665"></viz:size>
+        <viz:position x="65.45175" y="53.512867" z="0.0"></viz:position>
+        <viz:color r="229" g="110" b="88"></viz:color>
+      </node>
+      <node id="Applied Micro Circuits Corporation">
+        <attvalues></attvalues>
+        <viz:size value="6.3333335"></viz:size>
+        <viz:position x="70.01517" y="-54.509792" z="0.0"></viz:position>
+        <viz:color r="215" g="230" b="189"></viz:color>
+      </node>
+      <node id="IXYS Corporation ">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="150.06126" y="-22.538565" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Qiao Xing Mobile Communication Co. Ltd.">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-296.52188" y="-89.0888" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Apple Inc. ">
+        <attvalues></attvalues>
+        <viz:size value="1.3333334"></viz:size>
+        <viz:position x="-189.95811" y="-140.6211" z="0.0"></viz:position>
+        <viz:color r="217" g="42" b="40"></viz:color>
+      </node>
+      <node id="Research In Motion Limited (USA)">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-268.9717" y="-81.883545" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Nokia Corporation (ADR)">
+        <attvalues></attvalues>
+        <viz:size value="2.3333335"></viz:size>
+        <viz:position x="-197.42917" y="-93.849724" z="0.0"></viz:position>
+        <viz:color r="226" g="93" b="76"></viz:color>
+      </node>
+      <node id="ON Semiconductor Corp.">
+        <attvalues></attvalues>
+        <viz:size value="2.3333335"></viz:size>
+        <viz:position x="83.29272" y="63.311447" z="0.0"></viz:position>
+        <viz:color r="226" g="93" b="76"></viz:color>
+      </node>
+      <node id="Cypress Semiconductor Corporation">
+        <attvalues></attvalues>
+        <viz:size value="1.3333334"></viz:size>
+        <viz:position x="134.66574" y="5.2811747" z="0.0"></viz:position>
+        <viz:color r="217" g="42" b="40"></viz:color>
+      </node>
+      <node id="Silicon Laboratories ">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="147.1934" y="39.02407" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Fujitsu Limited (ADR)">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="150.96043" y="27.988453" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Marvell Technology Group Ltd.">
+        <attvalues></attvalues>
+        <viz:size value="4.6666665"></viz:size>
+        <viz:position x="11.599505" y="-28.623343" z="0.0"></viz:position>
+        <viz:color r="247" g="212" b="160"></viz:color>
+      </node>
+      <node id="LSI Corporation ">
+        <attvalues></attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="46.14731" y="-21.53078" z="0.0"></viz:position>
+        <viz:color r="223" g="76" b="64"></viz:color>
+      </node>
+      <node id="Cavium Inc ">
+        <attvalues></attvalues>
+        <viz:size value="1.3333334"></viz:size>
+        <viz:position x="22.9373" y="-76.88691" z="0.0"></viz:position>
+        <viz:color r="217" g="42" b="40"></viz:color>
+      </node>
+      <node id="Standard Microsystems Corporation">
+        <attvalues></attvalues>
+        <viz:size value="1.3333334"></viz:size>
+        <viz:position x="12.672982" y="-69.003075" z="0.0"></viz:position>
+        <viz:color r="217" g="42" b="40"></viz:color>
+      </node>
+      <node id="Advanced Micro Devices Inc.">
+        <attvalues></attvalues>
+        <viz:size value="5.3333335"></viz:size>
+        <viz:position x="52.920097" y="-38.828648" z="0.0"></viz:position>
+        <viz:color r="253" g="246" b="184"></viz:color>
+      </node>
+      <node id="ARM Holdings plc (ADR)">
+        <attvalues></attvalues>
+        <viz:size value="5.3333335"></viz:size>
+        <viz:position x="68.41352" y="-15.094076" z="0.0"></viz:position>
+        <viz:color r="253" g="246" b="184"></viz:color>
+      </node>
+      <node id="Hewlett-Packard Company">
+        <attvalues></attvalues>
+        <viz:size value="4.333333"></viz:size>
+        <viz:position x="-130.30727" y="-163.00693" z="0.0"></viz:position>
+        <viz:color r="244" g="195" b="148"></viz:color>
+      </node>
+      <node id="MIPS Technologies Inc.">
+        <attvalues></attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="74.936676" y="-36.132076" z="0.0"></viz:position>
+        <viz:color r="250" g="229" b="172"></viz:color>
+      </node>
+      <node id="TranSwitch Corporation">
+        <attvalues></attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="52.555653" y="1.691324" z="0.0"></viz:position>
+        <viz:color r="250" g="229" b="172"></viz:color>
+      </node>
+      <node id="Vitesse Semiconductor">
+        <attvalues></attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="90.46682" y="-45.121876" z="0.0"></viz:position>
+        <viz:color r="223" g="76" b="64"></viz:color>
+      </node>
+      <node id="Mindspeed Technologies Inc.">
+        <attvalues></attvalues>
+        <viz:size value="1.3333334"></viz:size>
+        <viz:position x="89.248215" y="12.775598" z="0.0"></viz:position>
+        <viz:color r="217" g="42" b="40"></viz:color>
+      </node>
+      <node id="NXP Semiconductors NV">
+        <attvalues></attvalues>
+        <viz:size value="1.6666667"></viz:size>
+        <viz:position x="43.07392" y="65.871605" z="0.0"></viz:position>
+        <viz:color r="220" g="59" b="52"></viz:color>
+      </node>
+      <node id="MaxLinear Inc. ">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-97.65443" y="73.375046" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="PLX Technology Inc. ">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-100.440414" y="58.930676" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Maxim Integrated Products Inc.">
+        <attvalues></attvalues>
+        <viz:size value="5.3333335"></viz:size>
+        <viz:position x="87.192055" y="81.531685" z="0.0"></viz:position>
+        <viz:color r="253" g="246" b="184"></viz:color>
+      </node>
+      <node id="Exar Corporation ">
+        <attvalues></attvalues>
+        <viz:size value="1.3333334"></viz:size>
+        <viz:position x="102.983" y="54.34182" z="0.0"></viz:position>
+        <viz:color r="217" g="42" b="40"></viz:color>
+      </node>
+      <node id="NetLogic Microsystems Inc.">
+        <attvalues></attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="44.222702" y="-62.142746" z="0.0"></viz:position>
+        <viz:color r="250" g="229" b="172"></viz:color>
+      </node>
+      <node id="Intersil Corp ">
+        <attvalues></attvalues>
+        <viz:size value="1.6666667"></viz:size>
+        <viz:position x="33.636753" y="109.20994" z="0.0"></viz:position>
+        <viz:color r="220" g="59" b="52"></viz:color>
+      </node>
+      <node id="Harmonic Inc. ">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-224.05777" y="-105.73122" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="CEVA Inc. ">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="108.83281" y="-66.00163" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Tellabs Inc. ">
+        <attvalues></attvalues>
+        <viz:size value="1.6666667"></viz:size>
+        <viz:position x="-247.76157" y="-215.10773" z="0.0"></viz:position>
+        <viz:color r="220" g="59" b="52"></viz:color>
+      </node>
+      <node id="Sycamore Networks Inc.">
+        <attvalues></attvalues>
+        <viz:size value="1.6666667"></viz:size>
+        <viz:position x="-233.57721" y="-209.16594" z="0.0"></viz:position>
+        <viz:color r="220" g="59" b="52"></viz:color>
+      </node>
+      <node id="Calix Inc. ">
+        <attvalues></attvalues>
+        <viz:size value="1.3333334"></viz:size>
+        <viz:position x="-256.74942" y="-223.99283" z="0.0"></viz:position>
+        <viz:color r="217" g="42" b="40"></viz:color>
+      </node>
+      <node id="Westell Technologies Inc.">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-273.47617" y="-227.54108" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Orckit Communications Ltd">
+        <attvalues></attvalues>
+        <viz:size value="1.3333334"></viz:size>
+        <viz:position x="-274.73563" y="-200.15334" z="0.0"></viz:position>
+        <viz:color r="217" g="42" b="40"></viz:color>
+      </node>
+      <node id="Dell Inc. ">
+        <attvalues></attvalues>
+        <viz:size value="1.3333334"></viz:size>
+        <viz:position x="-187.87962" y="-183.92966" z="0.0"></viz:position>
+        <viz:color r="217" g="42" b="40"></viz:color>
+      </node>
+      <node id="EZchip Semiconductor Ltd.">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="52.042892" y="-99.88739" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Super Micro Computer Inc.">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-138.90205" y="-177.43652" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Silicon Graphics International Corp">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-113.606834" y="-185.33095" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="RadiSys Corporation ">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-113.98611" y="-174.73209" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Lenovo Group Limited (ADR)">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-123.43956" y="-190.81808" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Xerox Corporation ">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-125.0396" y="-179.00963" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Cray Inc. ">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-113.382065" y="-163.98213" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Microsoft Corporation">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-134.0051" y="-187.37709" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Fairchild Semiconductor International">
+        <attvalues></attvalues>
+        <viz:size value="1.3333334"></viz:size>
+        <viz:position x="114.929726" y="64.763535" z="0.0"></viz:position>
+        <viz:color r="217" g="42" b="40"></viz:color>
+      </node>
+      <node id="Linear Technology Corporation">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="116.378975" y="115.989365" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Semtech Corporation ">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="92.11578" y="107.15437" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Cirrus Logic Inc. ">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="118.080055" y="104.008194" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Silicon Motion Technology Corp. (ADR)">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="74.35702" y="-83.96245" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="ZTE CORP H ">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="-193.41519" y="-171.4737" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Integrated Device Technology Inc.">
+        <attvalues></attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="70.405716" y="116.17721" z="0.0"></viz:position>
+        <viz:color r="215" g="25" b="28"></viz:color>
+      </node>
+      <node id="Cisco Systems Inc. ">
+        <attvalues></attvalues>
+        <viz:size value="3.6666667"></viz:size>
+        <viz:position x="-257.81915" y="-159.74936" z="0.0"></viz:position>
+        <viz:color r="184" g="210" b="188"></viz:color>
+      </node>
+      <node id="ADTRAN Inc. ">
+        <attvalues></attvalues>
+        <viz:size value="2.6666665"></viz:size>
+        <viz:position x="-271.58438" y="-172.21172" z="0.0"></viz:position>
+        <viz:color r="231" g="240" b="190"></viz:color>
+      </node>
+      <node id="Silicon Image Inc. ">
+        <attvalues></attvalues>
+        <viz:size value="3.3333333"></viz:size>
+        <viz:position x="-41.280178" y="90.424255" z="0.0"></viz:position>
+        <viz:color r="200" g="220" b="188"></viz:color>
+      </node>
+      <node id="Atmel Corporation ">
+        <attvalues></attvalues>
+        <viz:size value="2.3333335"></viz:size>
+        <viz:position x="93.80494" y="-27.086872" z="0.0"></viz:position>
+        <viz:color r="247" g="250" b="190"></viz:color>
+      </node>
+      <node id="Zoran Corporation ">
+        <attvalues></attvalues>
+        <viz:size value="3.3333333"></viz:size>
+        <viz:position x="-47.772964" y="72.806305" z="0.0"></viz:position>
+        <viz:color r="200" g="220" b="188"></viz:color>
+      </node>
+      <node id="Sigma Designs Inc ">
+        <attvalues></attvalues>
+        <viz:size value="3.6666667"></viz:size>
+        <viz:position x="-37.797855" y="37.047756" z="0.0"></viz:position>
+        <viz:color r="184" g="210" b="188"></viz:color>
+      </node>
+      <node id="Sonus Networks Inc. ">
+        <attvalues></attvalues>
+        <viz:size value="1.3333334"></viz:size>
+        <viz:position x="-210.60356" y="-138.20659" z="0.0"></viz:position>
+        <viz:color r="247" g="212" b="160"></viz:color>
+      </node>
+      <node id="Broadcom Corporation ">
+        <attvalues></attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="0.0035428633" y="-0.0028803695" z="0.0"></viz:position>
+        <viz:color r="75" g="142" b="183"></viz:color>
+      </node>
+      <node id="QUALCOMM Inc. ">
+        <attvalues></attvalues>
+        <viz:size value="2.6666665"></viz:size>
+        <viz:position x="-44.89647" y="-27.283634" z="0.0"></viz:position>
+        <viz:color r="231" g="240" b="190"></viz:color>
+      </node>
+      <node id="NVIDIA Corporation ">
+        <attvalues></attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-17.398611" y="16.390125" z="0.0"></viz:position>
+        <viz:color r="122" g="171" b="185"></viz:color>
+      </node>
+      <node id="Pixelworks Inc. ">
+        <attvalues></attvalues>
+        <viz:size value="3.0"></viz:size>
+        <viz:position x="-14.565858" y="66.12031" z="0.0"></viz:position>
+        <viz:color r="215" g="230" b="189"></viz:color>
+      </node>
+      <node id="PMC-Sierra Inc.">
+        <attvalues></attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="70.41422" y="10.50754" z="0.0"></viz:position>
+        <viz:color r="231" g="240" b="190"></viz:color>
+      </node>
+      <node id="Intel Corporation ">
+        <attvalues></attvalues>
+        <viz:size value="6.3333335"></viz:size>
+        <viz:position x="24.787394" y="-2.453294" z="0.0"></viz:position>
+        <viz:color r="59" g="132" b="182"></viz:color>
+      </node>
+      <node id="Ericsson (ADR) ">
+        <attvalues></attvalues>
+        <viz:size value="3.6666667"></viz:size>
+        <viz:position x="-251.52725" y="-138.08878" z="0.0"></viz:position>
+        <viz:color r="184" g="210" b="188"></viz:color>
+      </node>
+      <node id="Ciena Corporation ">
+        <attvalues></attvalues>
+        <viz:size value="2.3333335"></viz:size>
+        <viz:position x="-243.79036" y="-154.83281" z="0.0"></viz:position>
+        <viz:color r="247" g="250" b="190"></viz:color>
+      </node>
+      <node id="Ambarella Inc ">
+        <attvalues></attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-9.152216" y="107.69067" z="0.0"></viz:position>
+        <viz:color r="253" g="246" b="184"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="LOGIC Devices Incorporated" target="Texas Instruments Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="LOGIC Devices Incorporated" target="Trident Microsystems Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="LOGIC Devices Incorporated" target="Entropic Communications Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="LOGIC Devices Incorporated" target="Microsemi Corporation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="LOGIC Devices Incorporated" target="Silicon Image Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="LOGIC Devices Incorporated" target="Zoran Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="LOGIC Devices Incorporated" target="Sigma Designs Inc ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="LOGIC Devices Incorporated" target="NVIDIA Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="LOGIC Devices Incorporated" target="Pixelworks Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="LOGIC Devices Incorporated" target="Ambarella Inc ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Texas Instruments Incorporated" target="Microsemi Corporation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Texas Instruments Incorporated" target="STMicroelectronics N.V. (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Texas Instruments Incorporated" target="Analog Devices Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Texas Instruments Incorporated" target="ON Semiconductor Corp.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Texas Instruments Incorporated" target="Maxim Integrated Products Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Texas Instruments Incorporated" target="Intersil Corp ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Texas Instruments Incorporated" target="Fairchild Semiconductor International">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Texas Instruments Incorporated" target="Integrated Device Technology Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Texas Instruments Incorporated" target="Atmel Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Texas Instruments Incorporated" target="Intel Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Trident Microsystems Inc." target="LOGIC Devices Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Trident Microsystems Inc." target="Entropic Communications Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Trident Microsystems Inc." target="NXP Semiconductors NV">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Trident Microsystems Inc." target="Silicon Image Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Trident Microsystems Inc." target="Zoran Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Trident Microsystems Inc." target="Sigma Designs Inc ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Trident Microsystems Inc." target="Broadcom Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Trident Microsystems Inc." target="NVIDIA Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Trident Microsystems Inc." target="Pixelworks Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Trident Microsystems Inc." target="Ambarella Inc ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Entropic Communications Inc." target="Trident Microsystems Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Entropic Communications Inc." target="MaxLinear Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Entropic Communications Inc." target="PLX Technology Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Entropic Communications Inc." target="Silicon Image Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Entropic Communications Inc." target="Zoran Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Entropic Communications Inc." target="Sigma Designs Inc ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Entropic Communications Inc." target="Broadcom Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Entropic Communications Inc." target="QUALCOMM Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Entropic Communications Inc." target="NVIDIA Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Entropic Communications Inc." target="Intel Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Alcatel Lucent SA (ADR)" target="Juniper Networks Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Alcatel Lucent SA (ADR)" target="AudioCodes Ltd. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Alcatel Lucent SA (ADR)" target="Nokia Corporation (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Alcatel Lucent SA (ADR)" target="Sycamore Networks Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Alcatel Lucent SA (ADR)" target="ZTE CORP H ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Alcatel Lucent SA (ADR)" target="Cisco Systems Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Alcatel Lucent SA (ADR)" target="ADTRAN Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Alcatel Lucent SA (ADR)" target="Sonus Networks Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Alcatel Lucent SA (ADR)" target="Ericsson (ADR) ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Alcatel Lucent SA (ADR)" target="Ciena Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Juniper Networks Inc." target="Alcatel Lucent SA (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Juniper Networks Inc." target="Extreme Networks Inc">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Juniper Networks Inc." target="Nokia Corporation (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Juniper Networks Inc." target="Tellabs Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Juniper Networks Inc." target="Orckit Communications Ltd">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Juniper Networks Inc." target="Dell Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Juniper Networks Inc." target="Cisco Systems Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Juniper Networks Inc." target="ADTRAN Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Juniper Networks Inc." target="Ericsson (ADR) ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Juniper Networks Inc." target="Ciena Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Motorola Mobility Holdings Inc" target="Arris Group Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Motorola Mobility Holdings Inc" target="BigBand Networks Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Motorola Mobility Holdings Inc" target="Blonder Tongue Labs Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Motorola Mobility Holdings Inc" target="Wegener Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Motorola Mobility Holdings Inc" target="Qiao Xing Mobile Communication Co. Ltd.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Motorola Mobility Holdings Inc" target="Apple Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Motorola Mobility Holdings Inc" target="Research In Motion Limited (USA)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Motorola Mobility Holdings Inc" target="Nokia Corporation (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Motorola Mobility Holdings Inc" target="Cisco Systems Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Motorola Mobility Holdings Inc" target="Ericsson (ADR) ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Harmonic Inc." target="Arris Group Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Harmonic Inc." target="Motorola Mobility Holdings Inc">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Harmonic Inc." target="BigBand Networks Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Harmonic Inc." target="Envivio Inc ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Harmonic Inc." target="Blonder Tongue Labs Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Harmonic Inc." target="Harris Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Harmonic Inc." target="SeaChange International">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Harmonic Inc." target="Wegener Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Harmonic Inc." target="Cisco Systems Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Harmonic Inc." target="Ericsson (ADR) ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Freescale Semiconductor Ltd" target="Texas Instruments Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Freescale Semiconductor Ltd" target="Microsemi Corporation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Freescale Semiconductor Ltd" target="Microchip Technology Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Freescale Semiconductor Ltd" target="STMicroelectronics N.V. (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Freescale Semiconductor Ltd" target="Infineon Technologies AG (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Freescale Semiconductor Ltd" target="Analog Devices Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Freescale Semiconductor Ltd" target="Applied Micro Circuits Corporation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Freescale Semiconductor Ltd" target="IXYS Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Freescale Semiconductor Ltd" target="Atmel Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Freescale Semiconductor Ltd" target="Intel Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="STMicroelectronics N.V. (ADR)" target="Texas Instruments Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="STMicroelectronics N.V. (ADR)" target="Freescale Semiconductor Ltd">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="STMicroelectronics N.V. (ADR)" target="Microchip Technology Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="STMicroelectronics N.V. (ADR)" target="Infineon Technologies AG (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="STMicroelectronics N.V. (ADR)" target="Analog Devices Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="STMicroelectronics N.V. (ADR)" target="ON Semiconductor Corp.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="STMicroelectronics N.V. (ADR)" target="NXP Semiconductors NV">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="STMicroelectronics N.V. (ADR)" target="Maxim Integrated Products Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="STMicroelectronics N.V. (ADR)" target="Fairchild Semiconductor International">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="STMicroelectronics N.V. (ADR)" target="Atmel Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Applied Micro Circuits Corporation" target="Freescale Semiconductor Ltd">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Applied Micro Circuits Corporation" target="Advanced Micro Devices Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Applied Micro Circuits Corporation" target="ARM Holdings plc (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Applied Micro Circuits Corporation" target="MIPS Technologies Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Applied Micro Circuits Corporation" target="TranSwitch Corporation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Applied Micro Circuits Corporation" target="Vitesse Semiconductor">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Applied Micro Circuits Corporation" target="NetLogic Microsystems Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Applied Micro Circuits Corporation" target="Broadcom Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Applied Micro Circuits Corporation" target="PMC-Sierra Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Applied Micro Circuits Corporation" target="Intel Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Marvell Technology Group Ltd." target="Texas Instruments Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Marvell Technology Group Ltd." target="STMicroelectronics N.V. (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Marvell Technology Group Ltd." target="LSI Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Marvell Technology Group Ltd." target="Cavium Inc ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Marvell Technology Group Ltd." target="Standard Microsystems Corporation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Marvell Technology Group Ltd." target="Broadcom Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Marvell Technology Group Ltd." target="QUALCOMM Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Marvell Technology Group Ltd." target="NVIDIA Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Marvell Technology Group Ltd." target="PMC-Sierra Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Marvell Technology Group Ltd." target="Intel Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Advanced Micro Devices Inc." target="Freescale Semiconductor Ltd">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Advanced Micro Devices Inc." target="Microchip Technology Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Advanced Micro Devices Inc." target="Applied Micro Circuits Corporation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Advanced Micro Devices Inc." target="ARM Holdings plc (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Advanced Micro Devices Inc." target="MIPS Technologies Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Advanced Micro Devices Inc." target="NetLogic Microsystems Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Advanced Micro Devices Inc." target="Silicon Motion Technology Corp. (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Advanced Micro Devices Inc." target="Broadcom Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Advanced Micro Devices Inc." target="NVIDIA Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Advanced Micro Devices Inc." target="Intel Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARM Holdings plc (ADR)" target="Texas Instruments Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARM Holdings plc (ADR)" target="Freescale Semiconductor Ltd">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARM Holdings plc (ADR)" target="STMicroelectronics N.V. (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARM Holdings plc (ADR)" target="Infineon Technologies AG (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARM Holdings plc (ADR)" target="Cypress Semiconductor Corporation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARM Holdings plc (ADR)" target="Marvell Technology Group Ltd.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARM Holdings plc (ADR)" target="Atmel Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARM Holdings plc (ADR)" target="Broadcom Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARM Holdings plc (ADR)" target="NVIDIA Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ARM Holdings plc (ADR)" target="Intel Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Hewlett-Packard Company" target="Apple Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Hewlett-Packard Company" target="Dell Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Hewlett-Packard Company" target="Super Micro Computer Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Hewlett-Packard Company" target="Silicon Graphics International Corp">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Hewlett-Packard Company" target="RadiSys Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Hewlett-Packard Company" target="Lenovo Group Limited (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Hewlett-Packard Company" target="Xerox Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Hewlett-Packard Company" target="Cray Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Hewlett-Packard Company" target="Microsoft Corporation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Hewlett-Packard Company" target="Cisco Systems Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="MIPS Technologies Inc." target="Texas Instruments Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="MIPS Technologies Inc." target="Freescale Semiconductor Ltd">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="MIPS Technologies Inc." target="Microchip Technology Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="MIPS Technologies Inc." target="Applied Micro Circuits Corporation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="MIPS Technologies Inc." target="Advanced Micro Devices Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="MIPS Technologies Inc." target="ARM Holdings plc (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="MIPS Technologies Inc." target="CEVA Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="MIPS Technologies Inc." target="Broadcom Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="MIPS Technologies Inc." target="PMC-Sierra Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="MIPS Technologies Inc." target="Intel Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="TranSwitch Corporation" target="Texas Instruments Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="TranSwitch Corporation" target="Analog Devices Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="TranSwitch Corporation" target="Applied Micro Circuits Corporation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="TranSwitch Corporation" target="LSI Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="TranSwitch Corporation" target="Vitesse Semiconductor">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="TranSwitch Corporation" target="Mindspeed Technologies Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="TranSwitch Corporation" target="NXP Semiconductors NV">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="TranSwitch Corporation" target="Broadcom Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="TranSwitch Corporation" target="PMC-Sierra Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="TranSwitch Corporation" target="Intel Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Maxim Integrated Products Inc." target="Texas Instruments Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Maxim Integrated Products Inc." target="Microsemi Corporation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Maxim Integrated Products Inc." target="STMicroelectronics N.V. (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Maxim Integrated Products Inc." target="Analog Devices Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Maxim Integrated Products Inc." target="ON Semiconductor Corp.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Maxim Integrated Products Inc." target="Exar Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Maxim Integrated Products Inc." target="Intersil Corp ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Maxim Integrated Products Inc." target="Linear Technology Corporation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Maxim Integrated Products Inc." target="Semtech Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Maxim Integrated Products Inc." target="Cirrus Logic Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="NetLogic Microsystems Inc." target="Freescale Semiconductor Ltd">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="NetLogic Microsystems Inc." target="Applied Micro Circuits Corporation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="NetLogic Microsystems Inc." target="LSI Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="NetLogic Microsystems Inc." target="Cavium Inc ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="NetLogic Microsystems Inc." target="Standard Microsystems Corporation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="NetLogic Microsystems Inc." target="Vitesse Semiconductor">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="NetLogic Microsystems Inc." target="EZchip Semiconductor Ltd.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="NetLogic Microsystems Inc." target="Broadcom Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="NetLogic Microsystems Inc." target="PMC-Sierra Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="NetLogic Microsystems Inc." target="Intel Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cisco Systems Inc. " target="Alcatel Lucent SA (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cisco Systems Inc. " target="Juniper Networks Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cisco Systems Inc. " target="Polycom Inc ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cisco Systems Inc. " target="Arris Group Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cisco Systems Inc. " target="Motorola Solutions Inc">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cisco Systems Inc. " target="NetGear Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cisco Systems Inc. " target="Motorola Mobility Holdings Inc">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cisco Systems Inc. " target="ADTRAN Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cisco Systems Inc. " target="Ericsson (ADR) ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cisco Systems Inc. " target="Ciena Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ADTRAN Inc. " target="Alcatel Lucent SA (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ADTRAN Inc. " target="Juniper Networks Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ADTRAN Inc. " target="Extreme Networks Inc">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ADTRAN Inc. " target="AudioCodes Ltd. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ADTRAN Inc. " target="Tellabs Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ADTRAN Inc. " target="Sycamore Networks Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ADTRAN Inc. " target="Calix Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ADTRAN Inc. " target="Cisco Systems Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ADTRAN Inc. " target="Ericsson (ADR) ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ADTRAN Inc. " target="Ciena Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Silicon Image Inc. " target="Texas Instruments Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Silicon Image Inc. " target="Trident Microsystems Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Silicon Image Inc. " target="Entropic Communications Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Silicon Image Inc. " target="Analog Devices Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Silicon Image Inc. " target="Zoran Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Silicon Image Inc. " target="Sigma Designs Inc ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Silicon Image Inc. " target="Broadcom Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Silicon Image Inc. " target="NVIDIA Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Silicon Image Inc. " target="Pixelworks Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Silicon Image Inc. " target="Intel Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Atmel Corporation " target="Texas Instruments Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Atmel Corporation " target="Freescale Semiconductor Ltd">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Atmel Corporation " target="Microchip Technology Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Atmel Corporation " target="STMicroelectronics N.V. (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Atmel Corporation " target="Infineon Technologies AG (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Atmel Corporation " target="ON Semiconductor Corp.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Atmel Corporation " target="Cypress Semiconductor Corporation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Atmel Corporation " target="Silicon Laboratories ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Atmel Corporation " target="Fujitsu Limited (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Atmel Corporation " target="Intel Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Zoran Corporation " target="LOGIC Devices Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Zoran Corporation " target="Texas Instruments Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Zoran Corporation " target="Trident Microsystems Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Zoran Corporation " target="Entropic Communications Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Zoran Corporation " target="ON Semiconductor Corp.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Zoran Corporation " target="Silicon Image Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Zoran Corporation " target="Sigma Designs Inc ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Zoran Corporation " target="Broadcom Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Zoran Corporation " target="NVIDIA Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Zoran Corporation " target="Pixelworks Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sigma Designs Inc " target="LOGIC Devices Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sigma Designs Inc " target="Texas Instruments Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sigma Designs Inc " target="Trident Microsystems Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sigma Designs Inc " target="Entropic Communications Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sigma Designs Inc " target="Silicon Image Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sigma Designs Inc " target="Zoran Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sigma Designs Inc " target="Broadcom Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sigma Designs Inc " target="QUALCOMM Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sigma Designs Inc " target="Pixelworks Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sigma Designs Inc " target="Intel Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sonus Networks Inc. " target="Alcatel Lucent SA (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sonus Networks Inc. " target="Performance Technologies">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sonus Networks Inc. " target="Symmetricom Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sonus Networks Inc. " target="Extreme Networks Inc">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sonus Networks Inc. " target="AudioCodes Ltd. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sonus Networks Inc. " target="Ditech Networks Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sonus Networks Inc. " target="Infinera Corp. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sonus Networks Inc. " target="Cisco Systems Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sonus Networks Inc. " target="ADTRAN Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sonus Networks Inc. " target="Ericsson (ADR) ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Broadcom Corporation " target="Texas Instruments Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Broadcom Corporation " target="Entropic Communications Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Broadcom Corporation " target="STMicroelectronics N.V. (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Broadcom Corporation " target="TranSwitch Corporation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Broadcom Corporation " target="Maxim Integrated Products Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Broadcom Corporation " target="NetLogic Microsystems Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Broadcom Corporation " target="Sigma Designs Inc ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Broadcom Corporation " target="QUALCOMM Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Broadcom Corporation " target="NVIDIA Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Broadcom Corporation " target="PMC-Sierra Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="QUALCOMM Inc. " target="Texas Instruments Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="QUALCOMM Inc. " target="Entropic Communications Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="QUALCOMM Inc. " target="Alcatel Lucent SA (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="QUALCOMM Inc. " target="STMicroelectronics N.V. (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="QUALCOMM Inc. " target="Nokia Corporation (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="QUALCOMM Inc. " target="Sigma Designs Inc ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="QUALCOMM Inc. " target="Broadcom Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="QUALCOMM Inc. " target="NVIDIA Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="QUALCOMM Inc. " target="Intel Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="QUALCOMM Inc. " target="Ericsson (ADR) ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="NVIDIA Corporation " target="Texas Instruments Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="NVIDIA Corporation " target="Freescale Semiconductor Ltd">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="NVIDIA Corporation " target="Advanced Micro Devices Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="NVIDIA Corporation " target="Silicon Image Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="NVIDIA Corporation " target="Zoran Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="NVIDIA Corporation " target="Broadcom Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="NVIDIA Corporation " target="QUALCOMM Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="NVIDIA Corporation " target="Pixelworks Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="NVIDIA Corporation " target="Intel Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="NVIDIA Corporation " target="Ambarella Inc ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pixelworks Inc. " target="LOGIC Devices Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pixelworks Inc. " target="Texas Instruments Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pixelworks Inc. " target="Trident Microsystems Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pixelworks Inc. " target="Entropic Communications Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pixelworks Inc. " target="Intersil Corp ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pixelworks Inc. " target="Silicon Image Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pixelworks Inc. " target="Zoran Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pixelworks Inc. " target="Sigma Designs Inc ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pixelworks Inc. " target="NVIDIA Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pixelworks Inc. " target="Ambarella Inc ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="PMC-Sierra Inc." target="Texas Instruments Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="PMC-Sierra Inc." target="Applied Micro Circuits Corporation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="PMC-Sierra Inc." target="LSI Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="PMC-Sierra Inc." target="TranSwitch Corporation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="PMC-Sierra Inc." target="Vitesse Semiconductor">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="PMC-Sierra Inc." target="Mindspeed Technologies Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="PMC-Sierra Inc." target="Maxim Integrated Products Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="PMC-Sierra Inc." target="Exar Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="PMC-Sierra Inc." target="Broadcom Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="PMC-Sierra Inc." target="Intel Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Intel Corporation " target="Texas Instruments Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Intel Corporation " target="Freescale Semiconductor Ltd">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Intel Corporation " target="Applied Micro Circuits Corporation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Intel Corporation " target="Marvell Technology Group Ltd.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Intel Corporation " target="Advanced Micro Devices Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Intel Corporation " target="ARM Holdings plc (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Intel Corporation " target="Hewlett-Packard Company">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Intel Corporation " target="MIPS Technologies Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Intel Corporation " target="Atmel Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Intel Corporation " target="NVIDIA Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ericsson (ADR) " target="Alcatel Lucent SA (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ericsson (ADR) " target="Juniper Networks Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ericsson (ADR) " target="Motorola Mobility Holdings Inc">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ericsson (ADR) " target="Nokia Corporation (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ericsson (ADR) " target="Harmonic Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ericsson (ADR) " target="Cisco Systems Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ericsson (ADR) " target="ADTRAN Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ericsson (ADR) " target="Sonus Networks Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ericsson (ADR) " target="QUALCOMM Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ericsson (ADR) " target="Ciena Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ciena Corporation " target="Alcatel Lucent SA (ADR)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ciena Corporation " target="Juniper Networks Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ciena Corporation " target="Tellabs Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ciena Corporation " target="Sycamore Networks Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ciena Corporation " target="Calix Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ciena Corporation " target="Westell Technologies Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ciena Corporation " target="Orckit Communications Ltd">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ciena Corporation " target="Cisco Systems Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ciena Corporation " target="ADTRAN Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ciena Corporation " target="Ericsson (ADR) ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ambarella Inc " target="LOGIC Devices Incorporated">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ambarella Inc " target="Trident Microsystems Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ambarella Inc " target="Entropic Communications Inc.">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ambarella Inc " target="Silicon Image Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ambarella Inc " target="Zoran Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ambarella Inc " target="Sigma Designs Inc ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ambarella Inc " target="Broadcom Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ambarella Inc " target="NVIDIA Corporation ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ambarella Inc " target="Pixelworks Inc. ">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ambarella Inc " target="Intel Corporation ">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
